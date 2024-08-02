@@ -15,7 +15,7 @@ const StyledDashboardLayout = styled.div`
   gap: 2.4rem;
 `;
 
-function DashboardLayout() {
+export default function DashboardLayout() {
   const { bookings, isLoading: isLoading1, numDays } = useRecentBookings();
   const { confirmedStays, isLoading: isLoading2 } = useRecentStays();
 
@@ -37,5 +37,3 @@ function DashboardLayout() {
     </StyledDashboardLayout>
   );
 }
-
-export default DashboardLayout;
