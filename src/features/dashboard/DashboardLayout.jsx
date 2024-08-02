@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { useRecentBookings } from "./userecentBookings";
+import { useRecentBookings } from "./useRecentBookings";
 import { useRecentStays } from "./useRecentStays";
 import Spinner from "../../ui/Spinner";
 import Stats from "./stats";
