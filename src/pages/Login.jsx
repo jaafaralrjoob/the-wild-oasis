@@ -19,6 +19,9 @@ function Login() {
       <Logo />
       <Heading as="h4">Login to your account</Heading>
       <LoginForm />
+      <p>use this credentials to login and checkout the app</p>
+      <p>uesr: test@test.com</p>
+      <p>pass: 12345678</p>
     </LoginLayout>
   );
 }
