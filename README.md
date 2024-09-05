@@ -5,18 +5,10 @@
   <h2>The Wild Oasis</h2>
 
   <h3>
-    <a href="https://the-wild-oasis-alamin.vercel.app">
+    <a href="https://the-wild-oasis-iota-bay.vercel.app/">
       <strong>Demo Website</strong>
     </a>
   </h3>
-
-  <div align="center">
-    <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
-    •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/issues">Report Bug</a>
-    •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/pulls">Request Feature</a>
-  </div>
 
   <hr>
 
@@ -137,7 +129,7 @@ By building "The Wild Oasis" project with these technologies and concepts, I've 
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/The-Wild-Oasis.git
+git clone https://github.com/jaafaralrjoob/the-wild-oasis.git
 ```
 
 - Install dependencies:
